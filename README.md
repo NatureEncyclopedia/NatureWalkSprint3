@@ -1,6 +1,6 @@
 # NATURE WALK
 
-### App Walkthough GIF for SPRINT 1
+### App Walkthough GIF for SPRINT 1,2,3
 
 Completed user stories within GIF
 - [x] User can sign up
