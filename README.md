@@ -10,6 +10,7 @@ Completed Issues that werent user stories
 
 <img src="https://i.imgur.com/nZBjXta.gif" width=250><br>
 <img src="https://github.com/NatureEncyclopedia/NatureEncyclopedia/blob/main/NatureEncyclopedia.gif" width=250><br>
+<img src="https://github.com/NatureEncyclopedia/NatureWalkSprint3/blob/master/NatureEncyclopediaLocation.gif" width=250><br>
 
 Table of Contents
 
