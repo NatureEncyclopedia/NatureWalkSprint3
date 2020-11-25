@@ -60,16 +60,16 @@ Optional Nice-to-have Stories:
 
 ### Login / Register
 
-- User can sign up
-- User can login / log out
+[x] User can sign up
+[x] User can login / log out
 
 ### Stream
-- User can see a timeline with posts about animals
+[x] User can see a timeline with posts about animals
 
 ### Creation
 
-- User post a picture with a description
-- User can tag geo location of where they took a picture is at
+[x] User post a picture with a description
+[x] User can tag geo location of where they took a picture is at
 
 3. Navigation
 
